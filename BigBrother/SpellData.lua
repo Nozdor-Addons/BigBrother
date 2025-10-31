@@ -56,6 +56,7 @@ vars.SpellData.flasks = {
 	53760, -- 53760 Flask of Endless Rage
 	62380, -- Lesser Flask of Resistance
     67019, -- Flask of the North	
+    17627, -- фласка хпала на инту
 }
 
 vars.SpellData.elixirsGuardian = {

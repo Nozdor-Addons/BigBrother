@@ -175,7 +175,7 @@ local BigBrother_BuffTable={
 			{{spellData(1243)},{spellData(21562)},{spellData(69377)}}, -- 1243 Power Word: Fortitude, 21562 Prayer of Fortitude, 69377 Runescroll of Fortitude
 			{{spellData(14752)},{spellData(27681)}}, -- 14752 Divine Spirit, 27681 Prayer of Spirit
 			{{spellData(976)},{spellData(27683)}}, -- Защита от тьмы 
-			{{spellData(53752)},{spellData(53755)},{spellData(53758)},{spellData(54212)},{spellData(53760)},{spellData(62380)},{spellData(67019)}}, -- фласки
+			{{spellData(53752)},{spellData(53755)},{spellData(53758)},{spellData(54212)},{spellData(53760)},{spellData(62380)},{spellData(67019)},{spellData(17627)}}, -- фласки
 			{{spellData(57397)},{spellData(66477)},{spellData(58475)},{spellData(57337)},{spellData(57325)},{spellData(57327)},{spellData(57367)},{spellData(57371)},{spellData(57329)},{spellData(57332)},{spellData(57360)},{spellData(57356)},{spellData(57365)}}, -- нямка
 		},
 		header={
