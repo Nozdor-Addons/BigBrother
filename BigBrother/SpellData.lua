@@ -162,5 +162,5 @@ vars.SpellData.aoetauntSpells = {
 }
 
 vars.SpellData.pokesfish = {
-  300061, -- баф при нажатии рыбы (Питье)
+  57073, -- баф при нажатии рыбы (Питье)
 }

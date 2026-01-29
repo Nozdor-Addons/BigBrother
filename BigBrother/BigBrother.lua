@@ -1783,7 +1783,7 @@ function addon:COMBAT_LOG_EVENT_UNFILTERED(timestamp, subevent, srcGUID, srcname
         Fishs = {}        
 		    Fishs2 = {}	
 		--print(timestamp)
-	elseif self.db.profile.Megoslack and is_playersrc and (subevent == "SPELL_AURA_APPLIED" or subevent == "SPELL_AURA_REFRESH") and (spellID == 300061) then
+	elseif self.db.profile.Megoslack and is_playersrc and (subevent == "SPELL_AURA_APPLIED" or subevent == "SPELL_AURA_REFRESH") and (spellID == 57073) then
             table.insert(Fishs, srcname)
             --print(srcname)
 			for i,v in ipairs(Fishs) do
