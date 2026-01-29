@@ -72,10 +72,10 @@ for i,v in ipairs(vars.SpellData.foods) do
 	table.insert(vars.Foodbuffs,  { spellData(v) })
 end
 
---vars.Pokesfish={}
---for i,v in ipairs(vars.SpellData.pokesfish) do
---	table.insert(vars.Pokesfish,  { spellData(v) })
---end
+vars.Pokesfish={}
+for i,v in ipairs(vars.SpellData.pokesfish) do
+	table.insert(vars.Pokesfish,  { spellData(v) })
+end
 
 local foodmin = 60 -- minimum food stat level to allow
 local scanfoodcache = {}
