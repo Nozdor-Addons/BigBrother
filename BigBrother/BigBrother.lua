@@ -30,6 +30,7 @@ local function convertIDstoNames(spellIDs)
   local ignoreMissing = {
     [60210] = uiversion >= 40000, -- Freezing Arrow Effect, removed 4.x (replaced with Freezing Trap)
     [59671] = uiversion >= 40000, -- Challenging Howl (Warlock), removed 4.x
+    [217832] = true, -- Imprison (Demon Hunter), only on clients with the class
   }
   for _, v in ipairs(spellIDs) do
 	local spellName = GetSpellInfo(v)

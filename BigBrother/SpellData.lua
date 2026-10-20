@@ -125,6 +125,7 @@ vars.SpellData.ccspells = {
 	5782, -- Fear
 	2094, -- Blind
 	51514, -- Hex
+	217832, -- Imprison
 }
 
 vars.SpellData.brezSpells = {
